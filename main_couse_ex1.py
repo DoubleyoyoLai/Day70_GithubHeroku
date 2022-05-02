@@ -1,3 +1,7 @@
+'''
+https://invalidtype.com/resolved-heroku-and-github-items-could-not-be-retrieved-internal-server-error/
+https://devcenter.heroku.com/articles/git
+'''
 from flask import Flask, render_template, redirect, url_for, flash, abort
 from flask_bootstrap import Bootstrap
 from flask_ckeditor import CKEditor
